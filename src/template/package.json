@@ -1,0 +1,11 @@
+{
+  "name": "nuxt-new-proj",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "nuxt-start": "^2.15.7",
+    "serverless-http": "^2.7.0"
+  }
+}
